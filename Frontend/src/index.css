@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 4px;
+    width: 300px;
+    height: 300px;
+  }
+  
+  .cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  .cell:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .cell.x {
+    color: blue;
+  }
+  
+  .cell.o {
+    color: red;
+  }
