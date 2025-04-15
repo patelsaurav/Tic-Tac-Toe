@@ -6,7 +6,7 @@ This is a real-time multiplayer Tic-Tac-Toe game built with the MERN stack (Mong
 
 You can play the live demo of the game here:
 
-[https://tic-tac-toe-game-icnhi8aux-patel-sauravs-projects.vercel.app/](https://tic-tac-toe-game-icnhi8aux-patel-sauravs-projects.vercel.app/)
+[https://tic-tac-toe-game-six-hazel.vercel.app/]
 
 ## Features
 
