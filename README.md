@@ -67,7 +67,7 @@ Follow these steps to set up and run the game locally:
     * Create a `.env` file in the `backend` directory and add your MongoDB connection string:
 
         ```
-        MONGO_URI=your-mongodb-connection-string or use  mongodb+srv://sauravpatel1206:6gKpAYJd9wsNLfVI@cluster0.o0h47ia.mongodb.net/
+        MONGO_URI=your-mongodb-connection-string 
         ```
 
         * Replace `your-mongodb-connection-string` with the actual connection string from your MongoDB setup. If you're using MongoDB Atlas, follow their instructions to get this string.
